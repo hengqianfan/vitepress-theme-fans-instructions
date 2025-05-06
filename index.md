@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "FANS 主题使用文档"
+  # text: "vitepress主题"
+  tagline: 基于 vitepress 项目开发
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,14 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Boke系列
+    details: 为个人博客网站开发的主题
+    link: '/boke_mini/00 简述'
+    linkText: 进入主题
+    target: _blank
+  - title: Novel系列
+    details: 为小说网站开发的主题
+  - title: Business系列
+    details: 为内容为载体的商业网站开发的主题
 ---
 
