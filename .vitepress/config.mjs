@@ -13,7 +13,7 @@ export default defineConfig({
       {
         text: 'boke系列', items: [
           { text: 'boke-mini', link: '/repo/boke_mini/00 简述' },
-          { text: 'boke', link: '/repo/boke/00 简述' },
+          // { text: 'boke', link: '/repo/boke/00 简述' },
           // { text: 'boke-Ultra', link: '/boke_mini/00 简述' }
 
 
@@ -36,6 +36,12 @@ export default defineConfig({
 
         }
       ]
+    },
+    outline: {
+
+      label: '页面大纲',
+      level: [2, 6]
+
     },
 
     socialLinks: [

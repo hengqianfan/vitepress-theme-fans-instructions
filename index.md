@@ -8,20 +8,22 @@ hero:
   tagline: 基于 vitepress 项目开发
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 目前，主题在积极开发中，有问题欢迎反馈
+    # - theme: alt
+    #   text: 多场景
+    # - theme: brand
+    #   text: 文档详细
 
 features:
   - title: Boke系列
     details: 为个人博客网站开发的主题
-    link: '/boke_mini/00 简述'
+    link: '/repo/boke_mini/00 简述'
     linkText: 进入主题
     target: _blank
   - title: Novel系列
     details: 为小说网站开发的主题
+  - title: Product系列
+    details: 为展示产品开发的主题
   - title: Business系列
     details: 为内容为载体的商业网站开发的主题
 ---
