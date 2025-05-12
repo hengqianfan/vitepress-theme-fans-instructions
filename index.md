@@ -8,7 +8,8 @@ hero:
   tagline: 基于 vitepress 项目开发
   actions:
     - theme: brand
-      text: 目前，主题在积极开发中，有问题欢迎反馈
+      text: 目前，主题在积极开发中，有问题欢迎反馈 📩
+      link: '/pages/issue'
     # - theme: alt
     #   text: 多场景
     # - theme: brand
