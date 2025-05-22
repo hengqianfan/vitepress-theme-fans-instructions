@@ -12,8 +12,8 @@ export default defineConfig({
 
       {
         text: 'boke系列', items: [
-          { text: 'boke-mini', link: '/repo/boke_mini/00 简述' },
-          // { text: 'boke', link: '/repo/boke/00 简述' },
+          { text: 'boke-mini 主题', link: '/repo/boke_mini/00 简述' },
+          { text: 'boke 主题', link: '/repo/boke/00 简述' },
           // { text: 'boke-Ultra', link: '/boke_mini/00 简述' }
 
 
@@ -45,7 +45,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/hengqianfan/vitepress-theme-fans-instructions' },
+      { icon: 'github', link: 'https://github.com/hengqianfan/vitepress-theme-fans-instructions' }
     ]
   }
 })
